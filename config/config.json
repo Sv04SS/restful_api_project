@@ -14,9 +14,9 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "jusapi",
-    "password": "C2wCp4kxMDXRS8gBpqD7d90W21kzXdma",
-    "database": "db_api_rest_yxp2",
+    "username": "sofia",
+    "password": "JdbjX9fubxof388bK8UdJvkAMsgdkNn7",
+    "database": "db_api_rest_0qby",
     "host": "oregon-postgres.render.com",
     "dialect": "postgres",
     "dialectOptions": {
